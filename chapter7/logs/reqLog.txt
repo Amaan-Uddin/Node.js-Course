@@ -1,0 +1,13 @@
+20230610	02:17:05	5ffc9aa0-bac8-4b59-b60f-20e1c53e43c4	GET	undefined	/
+20230610	02:17:05	d91f3588-9df8-4d54-b787-18d3f1bfb218	GET	undefined	/css/style.css
+20230610	02:17:32	7d986c85-fb4b-4435-b132-cf15a376cfb3	GET	undefined	/
+20230610	02:18:42	845d8215-9955-4bdb-b4eb-5bb1b5160ce3	GET	undefined	/
+20230610	02:18:57	7910ec02-336d-4fbc-9224-bf26638705ba	GET	undefined	/
+20230610	02:18:57	c057fd7b-a433-44a1-a978-78ea78f9cecd	GET	undefined	/css/style.css
+20230610	02:19:03	d69547e8-b643-4760-b965-c7b6db646493	GET	undefined	/new-page.html
+20230610	02:19:03	133ca443-280d-4ee7-a2f7-4acbe1e0071c	GET	undefined	/css/style.css
+20230610	02:19:03	84cbf6b5-41a0-41d7-96b8-3ac4c34eec26	GET	undefined	/img/dog.jpg
+20230610	02:19:10	9d704e00-4ad6-4c10-826a-179eab9f6c81	GET	undefined	/k
+20230610	02:19:10	59ec8ca4-0138-4ced-adf9-4a31c801eb55	GET	undefined	/css/style.css
+20230610	02:19:17	232a2b9d-4db5-4a4b-9ec4-a479bb912207	GET	undefined	/
+20230610	02:19:17	3dd29c8c-b984-4a8e-9fa9-4e584f8e2b17	GET	undefined	/css/style.css

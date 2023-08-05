@@ -1,0 +1,11 @@
+We will be organizing our server and all our routers using the MVC (Model View Controller) design pattern.
+
+
+Firstly the /controllers folder will contain all the module(s) that contain functions which are executed on a 
+specific routes inside the router.
+The employeesController module is an API which handles the CRUD operation on HTTP request made on the server.
+The /api folder has employees.js Router that origanizez all the different HTTP requests handlers and executes
+the functions exported from employeesController module.
+
+The /model folder is emulating a DATA_BASE which has the employees.json file.
+

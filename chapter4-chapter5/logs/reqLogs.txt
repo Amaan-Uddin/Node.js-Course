@@ -1,0 +1,6 @@
+20230606	04:17:37	895d25aa-74a6-4aa5-bdee-5901f4ddd3db	/	GET
+20230606	04:17:37	8143750d-6063-46da-af1b-6cba5061558d	/css/style.css	GET
+20230606	04:18:29	7fe898de-4c14-44c4-957b-6cae79b058e7	/	GET
+20230606	04:18:29	2ad3114f-c616-4ae3-8048-e87ac7927b5f	TypeError: fsPromises.readFil is not a function
+20230606	04:18:48	2e3451e7-f313-4fbc-b23a-0b545d5afd0d	/	GET
+20230606	04:18:48	7a97cc6d-1f82-4412-ade5-71b8f9ba5612	/css/style.css	GET

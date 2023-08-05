@@ -1,0 +1,27 @@
+middleware are request handlers with access to application's req-res cycle.
+it holds the req object, the res object and the middleware function.
+
+in express there are many built-in middleware and also we can define our own middleware.
+
+Middleware functions can perform various tasks such as modifying the request or response 
+objects, executing additional code, terminating the request-response cycle, or passing control 
+to the next middleware function.
+
+public folder contains all the static files which are called by the client 
+executes files that can't be changed dynamically by the client and are static in nature
+html,css,js,images etc
+
+
+CORS, or cross origin resource sharing is a security measure which prevents any other program from accesing the 
+data from the server. The data is only shared with applications on the same URL or Port.
+
+If your frontend is on a different port and makes a request to your backend you end up with CORS Error
+To overcome this we require the 'cors' module and we need to specify which URL or ROUTES have access to our 
+data from the server.
+
+we can create a whitelist for all the origins that have access 
+
+const cors = require('cors')
+app.use(cors({
+    origin: https://localhost:3500
+}))

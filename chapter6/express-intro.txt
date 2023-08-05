@@ -1,0 +1,9 @@
+In this tutortial we learn about routing of client request and how we handle those using handlers (callbacks)
+
+Express is a JS framerwork that provides broad features for building web and mobile applications
+It helps with managing server and routes in Node.js
+It is layered on top of Node.js to handle request and responses
+
+a single route can have multiple route handlers and we chain then using next() function
+
+NOTE: always keep your 404 calls at the very bottom on all other GET calls

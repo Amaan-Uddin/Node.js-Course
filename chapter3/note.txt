@@ -1,0 +1,32 @@
+npm - node package manager, has node modules made by 3rd party developers.
+
+Essential npm knowledge:
+-> to install packages in our directory we use 'npm' followed by 'install' and then the package name
+-> npm install nodemon / npm i nodemon / npm add nodemon
+
+-> nodemon is command line tool used to monitor a JS file. Once you make changes to a JS file it then 
+   runs your node application in the terminal in real time.
+
+   to install nodemon globally use;
+   npm install nodemon -g
+
+-> to initialize a node project we run the cmd
+   npm init / npm init -y (the '-y' flag answers yes to all the question asked during the init process)
+
+   we then have package.json in our file tree which has all the info about the project along with 
+   all the necessary dependencies and devDependencies
+
+-> dependencies are modules that are required in the project and that we install using npm like 'express' 'date-fns'
+   devDependencies are all the tools required during the development of the project like 'nodemon' 
+
+-> when ever we install a module using npm it get's stored in a seperate folder named 'node_modules'
+
+-> 'npm install' will install all the modules present in the dependencies and devDependencies
+
+-> the scripts tag in the package.json is executed during deployment and building of application and inside the 
+   the script tag we have the "start" key which we can modefy and run "npm start"
+   and "dev" key which currently runs "nodemon index.js" and the command is "npm run dev"
+
+-> if you want to update or check for updates for your packages run 'npm update'
+
+NOTE: to reduce disk usage all the packages are removed, to re-install them run 'npm install'

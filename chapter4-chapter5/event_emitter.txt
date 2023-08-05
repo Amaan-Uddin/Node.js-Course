@@ -1,0 +1,15 @@
+chapter4
+creating a function that prints out the date,time,uuid and message when an event is emmited with the help 
+of the 'events' common-core module
+
+-> create a function that logs all the required parameters when an event is emitted and also saves the log
+   in a seperate folder named 'logs'.
+-> for this we need a object that listens/waits for an event and calls the logs function when a specific
+   event is emitted. 
+
+NOTE: in package.json , for chapter4, {"main":"logEvents.js"}
+
+chapter5
+
+
+NOTE: in package.json , for chapter5, {"main":"server.js"}
